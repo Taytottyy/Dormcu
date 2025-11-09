@@ -1,1 +1,11 @@
-# repo-template
+
+  # Dorm@CU
+
+  This is a code bundle for Dorm@CU. The original project is available at https://www.figma.com/design/pC7P3XGnHgTaSavqAMEZS8/Dorm-CU.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
